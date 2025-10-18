@@ -1,0 +1,8 @@
+polars[all]
+pandas
+numpy
+jupyterlab
+ipykernel
+matplotlib
+plotly
+pyarrow
