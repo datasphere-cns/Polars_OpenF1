@@ -54,6 +54,14 @@ Fundada en **2019**, Datasphere está posicionada para aprovechar la creciente d
 
 ---
 
+**Solución de la práctica Italian GP con Polars**  
+   Notebook con la salida de cada ejecucción:  
+   👉 https://github.com/datasphere-cns/Polars_OpenF1/blob/main/F1%20Analysis%20Solution.ipynb
+   
+
+
+
+
 ## 🚀 Objetivos del proyecto
 
 - Explicar la **F1** con un enfoque **técnico-práctico**.  
